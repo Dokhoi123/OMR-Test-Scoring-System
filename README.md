@@ -72,8 +72,3 @@ The system is capable of processing multi-column answer sheets like the one belo
     - `countNonZero` and `np.amax` are used to find the bubble with the most marked pixels.
 5.  **Output:** The index of the selected answer is mapped to its corresponding character (A, B, C, D).
 
-## **Potential Improvements**
-
-- **Automated Grading:** Integrate a feature to compare the recognized answers against a predefined answer key to automatically calculate the final score.
-- **Student Information Recognition:** Use OCR (e.g., Tesseract) to read the Student ID.
-- **GUI Implementation:** Build a graphical user interface to allow users to easily upload images and view results.
