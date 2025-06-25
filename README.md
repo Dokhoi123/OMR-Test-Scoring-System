@@ -6,7 +6,7 @@ This project is an application built with Python and OpenCV to automate the proc
 
 The system is capable of processing multi-column answer sheets like the one below:
 
-![Demo Image](giuaky.jpg)
+![Demo Image](giuaky2.jpg)
 
 ## **Key Features**
 
